@@ -1,0 +1,2 @@
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\5 сем\КМС\lab4\lab_4\obj\Debug\Assembly-CSharp-firstpass.csproj.AssemblyReference.cache
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\5 сем\КМС\lab4\lab_4\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
